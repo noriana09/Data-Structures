@@ -3,7 +3,6 @@
  * file: pss.h
  *
  * @Author  noriana tzatzai csd5016@csd.uoc.gr
- * @Version 20-10-2020
  *
  *
  * @brief   Header file for the Public Subscribe System,
