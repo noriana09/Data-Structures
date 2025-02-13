@@ -20,7 +20,7 @@ The project uses the following data structures:
 
 ## Contributors
 
-- [Your Name](https://github.com/noriana09)
+- [Noriana Tzatzai](https://github.com/noriana09)
 
 ## License
 
